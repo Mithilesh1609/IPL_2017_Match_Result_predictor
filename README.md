@@ -6,12 +6,12 @@ This is **python** implementation of predicting our favorite cricket league **IP
 We have used dataset from kaggle ([Link](https://www.kaggle.com/manasgarg/ipl)) which is contrubuted by Manas.
 
 ## python library used
-- **Pandas** (for data processing and I/O operation of CSV file)
-- **Numpy**  (for basic linear algebra)
-- **Sklearn** (for building predictive model)
+- **Pandas** (for data processing and I/O operation of CSV file)([reference](https://www.geeksforgeeks.org/python-data-analysis-using-pandas/))
+- **Numpy**  (for basic linear algebra) 
+- **Sklearn** (for building predictive model) ([refernce](https://scikit-learn.org/stable/supervised_learning.html#supervised-learning))
 - **Matplotlib** (for plotting the data)
 - **Seaborn** (for statistical data visualization)
-- **sklearn.Kflod** (for split the testing and traning data)
+- **Sklearn.kFlod** (for split the testing and traning data)([refernce](https://towardsdatascience.com/train-test-split-and-cross-validation-in-python-80b61beca4b6))
 
 ## Results
 - First I used basic **logistic regression model** which is getting very low accuracy of **24.01%**
