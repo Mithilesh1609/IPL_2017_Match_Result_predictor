@@ -2,5 +2,7 @@
 
 This is **python** implementation of predicting our favorite cricket league **IPL** using **Random forest** and **logistic regression classifier**.
 
-We have used 
+## Source of the Dataset
+We have used dataset from kaggle ([Link](https://www.kaggle.com/manasgarg/ipl)) which is contrubuted by Manas.
+
 
